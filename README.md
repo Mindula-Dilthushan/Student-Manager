@@ -1,3 +1,32 @@
+<div align="center">
+
+# Student-Manager
+</div>
+
+#### Clone this repository ✅
+```md
+git clone https://github.com/Mindula-Dilthushan/Student-Manager.git
+```
+###
+
+![GitHub issues](https://img.shields.io/github/issues/Mindula-Dilthushan/Student-Manager?&labelColor=black&color=eb3b5a&label=Issues&logo=issues&logoColor=black&style=for-the-badge)
+![GitHub Contributions](https://img.shields.io/github/contributors/Mindula-Dilthushan/Student-Manager?&labelColor=black&color=8854d0&style=for-the-badge)
+
+### License 📝
+[![GitHub license](https://img.shields.io/github/license/Mindula-Dilthushan/Student-Manager?&labelColor=black&color=3867d6&style=for-the-badge)](https://github.com/Mindula-Dilthushan/Student-Manager/blob/master/LICENSE)
+
+
+<div align="center">
+
+![repo size](https://img.shields.io/github/repo-size/Mindula-Dilthushan/Student-Manager?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![GitHub forks](https://img.shields.io/github/forks/Mindula-Dilthushan/Student-Manager?&labelColor=black&color=0fb9b1&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Mindula-Dilthushan/Student-Manager?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/Mindula-Dilthushan/Student-Manager?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+
+</div>
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,4 +93,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-"# Student-Manager" 
+
+<div align="center"> 
+
+#### Developed by [Mindula Dilthushan Manamperi](http://minduladilthushan.netlify.app/) ^_~
+</div>
